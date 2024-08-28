@@ -1,0 +1,6 @@
+
+        Current weather in goa:
+        Temperature: 29°C
+        Weather: Sunny
+        Wind Speed: 13 km/h
+      
